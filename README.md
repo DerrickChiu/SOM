@@ -7,4 +7,4 @@
 - CPU：Intel Corei7-5500U 2.4GHz
 ****
 随机生成200个点，归类结果如下图：
-![效果图](pic/SOM.png)
+![效果图](BPNN/pic/SOM.png)
